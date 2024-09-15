@@ -9,7 +9,7 @@ for(let i = 0; i<age; i++){
   console.log(i)
 }
 
-// using while loop
+// Using while loop
 let i = 0
 while(i<age){
   console.log(i)
