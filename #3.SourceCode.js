@@ -13,7 +13,6 @@ for(let i =0; i<l; i++){
 }
 
 // using for in loop
-
 for(i in obj){
   console.log(obj[i])
 }
